@@ -1,13 +1,12 @@
-
 public class Kadai12 {
 
 	/**
-	 * �ۑ�12
-	 * �l�̌ܓ���؎̂āA�؂�グ���l��Ԃ����\�b�h
-	 * @param number ���̐�
-	 * @param digit �����_�ȉ��ŕ\�����錅����\���B�܂�A0�Ȃ珬���_�ȉ���1�ʁA1�Ȃ珬���_�ȉ���2�ʂŎl�̌ܓ���؂�グ�A�؎̂Ă̏���������
-	 * @param p 0�Ȃ�l�̌ܓ��A1�Ȃ�؎̂āA2�Ȃ�؂�グ�Ƃ���B����ȊO�܂��͏ȗ������ꍇ�͎l�̌ܓ�����
-	 * @return �l�̌ܓ���؎̂āA�؂�グ���l
+	 * 課題12
+	 * 四捨五入や切捨て、切り上げた値を返すメソッド
+	 * @param number 元の数
+	 * @param digit 小数点以下で表示する桁数を表す。つまり、0なら小数点以下第1位、1なら小数点以下第2位で四捨五入や切り上げ、切捨ての処理をする
+	 * @param p 0なら四捨五入、1なら切捨て、2なら切り上げとする。これ以外または省略した場合は四捨五入する
+	 * @return 四捨五入や切捨て、切り上げた値
 	 */
 	double rount(double number,int digit,int p) {
 		

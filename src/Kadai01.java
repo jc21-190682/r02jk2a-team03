@@ -2,13 +2,13 @@
 public class Kadai01 {
 	
 	/**
-	 * ‰Û‘è01
-	 * •¶Žš—ñ‚Ì¶‰E‚Ì•¶Žš‚ð”½“]‚µ‚Ä•Ô‚·ƒƒ\ƒbƒh
-	 * @param s@‘ÎÛ‚Ì•¶Žš
-	 * @return ¶‰E‚ð”½“]‚µ‚½Œ‹‰Ê
+	 * ï¿½Û‘ï¿½01
+	 * ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½Ìï¿½ï¿½Eï¿½Ì•ï¿½ï¿½ï¿½ï¿½ð”½“]ï¿½ï¿½ï¿½Ä•Ô‚ï¿½ï¿½ï¿½ï¿½\ï¿½bï¿½h
+	 * @param sï¿½@ï¿½ÎÛ‚Ì•ï¿½ï¿½ï¿½
+	 * @return ï¿½ï¿½ï¿½Eï¿½ð”½“]ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½
 	 */
 	String ReverseString(String s) {
-		//TODO ƒvƒƒOƒ‰ƒ€‚ð‚±‚±‚Éì¬‚·‚é
+		//TODO ãƒ—ãƒ­ã‚°ãƒ©ãƒ ã‚’ã“ã“ã«ä½œæˆã™ã‚‹
 		return null;
 	}
 }
