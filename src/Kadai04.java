@@ -2,10 +2,10 @@
 public class Kadai04 {
 
 	/**
-	 * �ۑ�04
-	 * ������̒��Ɋ܂܂��A���t�@�x�b�g�̒��ŁA��ԑ����g���Ă��镶����Ԃ�
-	 * @param s ������
-	 * @return s�̒��ɓ����Ă�������
+	 * 課題04
+	 * 文字列の中に含まれるアルファベットの中で、一番多く使われている文字を返す
+	 * @param s 文字列
+	 * @return sの中に入っていた文字
 	 */
 	char getMaxString(String s) {
 		char c = ' ';
