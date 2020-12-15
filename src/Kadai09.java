@@ -8,6 +8,9 @@ public class Kadai09 {
 	 * @return 0を補った文字列
 	 */
 	String numberDigit(int n , int size) {
-		return null;
+		String str = String.valueOf(n);
+        
+        
+		return paddingStr;
 	}
 }
