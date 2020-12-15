@@ -7,8 +7,19 @@ public class Kadai05 {
 	 * @param d 数値が入っている配列
 	 * @return 配列の中の最大値
 	 */
-	int getMax(int[] d) {
-		
-		return -1;
+	
+	
+	
+	public int getMax(int[] d) {
+		if(null == d) return Integer.MIN_VALUE;
+		int max=d[0];
+		for(int i=1;i<d.length;i++) {
+			if(max < d[i]) {
+				max = d[i];
+			}
+		}
+		return max;
 	}
+	
+
 }
